@@ -7,7 +7,7 @@ My goal for this homework assignment was to refactor existing code for a marketi
 I utilized html, css and git to complete this homework assignment. 
 
 
-Screenshot of refactored webpage:
+### Screenshot of refactored webpage:
 ![](./assets/images/hw_1_code_refactor.png)
 
 
