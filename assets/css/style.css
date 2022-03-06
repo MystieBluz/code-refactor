@@ -7,20 +7,20 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* Website header */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* Company Name */
 .header h1 {
   display: inline-block;
   font-size: 48px;
   color: #d9dcd6;
 }
-
+/* Header positioning for info links */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -28,18 +28,18 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
 }
-
+/* Info links located in header */
 .header nav ul li {
   list-style-type: none;
   display: inline-block;
   margin-left: 25px;
 }
-
+/* Text of info links located in header */
 a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* Digital marketing meeting image under header */
 .image-1 {
   height: 800px;
   width: 100%;
@@ -48,13 +48,13 @@ a {
   background-size: cover;
   background-position: center;
 }
-
+/* Section 1 */
 .content {
   width: 74%;
   display:inline-block ;
   margin-left: 20px;
 }
-
+/* Search engine optimization info */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -64,7 +64,7 @@ a {
   color: #ffffff;
   font-size: 20px;
 }
-
+/* Online reputation management info */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -74,7 +74,7 @@ a {
   color: #ffffff;
   font-size: 20px;
 }
-
+/* Social media marketing info */
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -84,35 +84,35 @@ a {
   color: #ffffff;
   font-size: 20px;
 }
-
+/* Image located next to Search engine optimization info */
 .search-engine-optimization img {
   max-height: 200px;
 }
-
+/* Image located next to Online reputation management info   */
 .online-reputation-management img {
   max-height: 200px;
 }
-
+/* Image located next to Social media marketing info */
 .social-media-marketing img {
   max-height: 200px;
 }
-
+/* Paragraph sections and copyright info in footer */
 p {
   padding: 0%;
   display: inline;
   font-size: 16px;
 }
-
+/* Paragraph positioning for Online reputation management */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/* Paragraph positioning for Search engine optimization and Social media marketing */
 .float-right {
   float: right;
   margin-left: 25px;
 }
-
+/* Section 2 */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -123,38 +123,38 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #2589bd;
 }
-
+/* Positioning for benefit lead */
 .benefit-lead {
   margin-bottom: 32px;
   text-align: center;
   color: #ffffff;
 }
-
+/* Positioning for benefit brand */
 .benefit-brand {
   margin-bottom: 32px;
   text-align: center;
   color: #ffffff;
 }
-
+/* Positioning for benefit cost */
 .benefit-cost {
   margin-bottom: 32px;
   text-align: center;
   color: #ffffff;
 }
-
+/* Images for the benefits content located in section 2 */
 .image-3 {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* Footer info positioning  */
 .footer {
   padding: 30px;
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
 }
-
+/* Company message with heart icon */
 .footer h4 {
-  font-size: 20px;
+  font-size: 15px;
 }
