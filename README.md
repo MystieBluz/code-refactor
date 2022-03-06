@@ -6,13 +6,16 @@ My goal for this homework assignment was to refactor existing code for a marketi
 
 I utilized html, css and git to complete this homework assignment. 
 
+You can view my GitHub repository and live URL below:
+### [GitHub Link](https://github.com/mduhart82/misty-1-code-refactor) 
+### [Live URL]
 
-### Screenshot of refactored webpage:
+
+
+##### Screenshot of refactored webpage:
 ![](./assets/images/hw_1_code_refactor.png)
 
 
 
 
 
-## GitHub Link: 
-## Deployed Link:
