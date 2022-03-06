@@ -8,7 +8,7 @@ I utilized html, css and git to complete this homework assignment.
 
 You can view my GitHub repository and live URL below:
 ### [GitHub Link](https://github.com/mduhart82/misty-1-code-refactor) 
-### [Live URL]
+### [Live URL](https://mduhart82.github.io/misty-1-code-refactor/)
 
 
 
